@@ -1,38 +1,7 @@
 # 💕 AI-HealthCare-Assistant
 <div id="top" align="center">
   <img src="https://user-images.githubusercontent.com/78981558/155504905-3bd2d8db-64f5-413c-b7d2-d4e7842ddad8.png" width="250" height="250"/>
-  <div id="badges">
-
-   <a href="https://github.com/ahlem-phantom/AI-HealthCare-Assistant/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/ahlem-phantom/AI-HealthCare-Assistant.svg?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/ahlem-phantom/AI-HealthCare-Assistant/issues">
-    <img src="https://img.shields.io/github/issues/ahlem-phantom/AI-HealthCare-Assistant.svg?style=for-the-badge"/>
-  </a>
-
-  <a href="https://github.com/ahlem-phantom/AI-HealthCare-Assistant/stargazers">
-    <img src="https://img.shields.io/github/stars/ahlem-phantom/AI-HealthCare-Assistant.svg?style=for-the-badge"/>
-  </a>
-   <a href="https://github.com/ahlem-phantom/AI-HealthCare-Assistant/network/members">
-      <img src="https://img.shields.io/github/forks/ahlem-phantom/AI-HealthCare-Assistant.svg?style=for-the-badge"/>
-    </a>
-   <a href="https://www.youtube.com/watch?v=Kxqa83Us1m4">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  </div>
-<h3 align="center">AI-HealthCare-Assistant</h3>
-  
-  <p align="center">
-This is the official AI-HealthCare-Assistant documentation <br/>
-  </p>
- <a href="https://www.youtube.com/watch?v=Kxqa83Us1m4&t=1s">
-    <img src="https://img.youtube.com/vi/Kxqa83Us1m4/0.jpg"/>
-  </a>
- </div>
-
-  
-  
+  <div id="badges"> 
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -170,7 +139,6 @@ _In order to install the app you need to follow the instructions below :_
 <!-- USAGE EXAMPLES -->
 ## ⚡ Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 | <img src="https://user-images.githubusercontent.com/78981558/177000911-0c4cb2ca-aff1-4416-be97-5b9173215c9a.png" width="900" height="300"/><br> **Choose a role**| <img src="https://user-images.githubusercontent.com/78981558/177001216-8e8c9cc2-09cd-4c7a-9639-94ec384432cb.png" width="900" height="300"/>  <br>**FaceID Login**| 
 | ------------- | ------------- | 
 | <img src="https://user-images.githubusercontent.com/78981558/177000941-82057aa0-5496-4b69-9aa1-a1c042395fe1.png" width="900" height="300"/><br> **CardId verification**| <img src="https://user-images.githubusercontent.com/78981558/177001352-2aab27c9-e939-4782-b2d9-0181a8888d13.png" width="900" height="300"/>  <br>**Success of cardID verification**| 
@@ -184,8 +152,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <!-- ROADMAP -->
 ## 🚩 Roadmap
-
-See the [open issues](https://github.com/ahlem-phantom/AI-HealthCare-Assistant/issues) for a list of proposed features (and known issues).
 
  - [x] Phase 1 : Project Study, Requirement Analysis and Prototyping 
 	 - Problematic definition 
