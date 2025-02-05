@@ -1,5 +1,4 @@
 # 💕 AI-HealthCare-Assistant
-<div id="top" align="center">
   <img src="https://user-images.githubusercontent.com/78981558/155504905-3bd2d8db-64f5-413c-b7d2-d4e7842ddad8.png" width="250" height="250"/>
   <div id="badges"> 
 
@@ -200,8 +199,6 @@ Don't forget to give the project a star! Thanks again!
 3. Commit your Changes (`git commit -m 'Add some features to project'`)
 4. Push to the Branch (`git push origin Yourbranch`)
 5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
